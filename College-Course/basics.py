@@ -10,3 +10,4 @@ a,b,c = 10,20
 print(a,b,c) """
 a=b=c=50
 print(a,b,c)
+print("Kanishk")
