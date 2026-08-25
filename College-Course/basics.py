@@ -49,8 +49,8 @@ print(id(a))
 print(id(b))
 name= input("Enter the name: ")
 print("You entered name as: ",name) """
-p=10
+""" p=10
 r=20.66
 t=30.5
 simpleinterest=(p*r*t)/100
-print("Simple Interest is: ",simpleinterest)
+print("Simple Interest is: ",simpleinterest) """
