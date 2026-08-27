@@ -10,3 +10,5 @@ print(price)
 print("My name is : ", name)
 print("My age is : ", age)
 
+a = None
+print(type(a))
