@@ -12,3 +12,4 @@ print("My age is : ", age)
 
 a = None
 print(type(a))
+print(a)
