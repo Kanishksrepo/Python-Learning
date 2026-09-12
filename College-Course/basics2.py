@@ -1,24 +1,21 @@
-x=int(input("Enter a number: "))
-if x<0:
-    print("Negative number")
-else:
-    print("The number is positive")
+'''group=[1,2,3,4]
+search = int(input("Enter the element in search: "))
+for element in group:
+    if search == element:
+        print("Element found in group")
+        break'''
 
-user_name ='rahul'
-x=input("Enter your name: ")
-if user_name == x.lower() :
-    print("The name is valid")
-else:
-    print("The name is invalid")
+'''cart=[10,20,500,700,60,50]
+for item in cart:
+    if item>=500:
+        continue
+    print("Item: ",item)'''
 
-x=1
-while x<=5:
-    print(x)
-    x+=1
-    print("End")
-
-x=10
-while (x>=10) and (x<=20):
-    print(x)
-    x+=2
-    print("End")
+group=[1,2,3,4]
+search = int(input("Enter the element in search: "))
+for element in group:
+    if search == element:
+        print("element found in group")
+        break
+    else:
+        print("element not found")
