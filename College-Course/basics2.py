@@ -9,7 +9,7 @@ for element in group:
 for item in cart:
     if item>=500:
         continue
-    print("Item: ",item)'''
+    print("Item: ",item)
 
 group=[1,2,3,4]
 search = int(input("Enter the element in search: "))
@@ -18,4 +18,5 @@ for element in group:
         print("element found in group")
         break
     else:
-        print("element not found")
+        print("element not found") '''
+
