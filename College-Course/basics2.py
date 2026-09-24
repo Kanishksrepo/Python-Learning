@@ -1,11 +1,11 @@
-'''group=[1,2,3,4]
+group=[1,2,3,4]
 search = int(input("Enter the element in search: "))
 for element in group:
     if search == element:
         print("Element found in group")
-        break'''
+        break
 
-'''cart=[10,20,500,700,60,50]
+cart=[10,20,500,700,60,50]
 for item in cart:
     if item>=500:
         continue
@@ -18,5 +18,4 @@ for element in group:
         print("element found in group")
         break
     else:
-        print("element not found") '''
-
+        print("element not found")
